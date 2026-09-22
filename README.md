@@ -12,4 +12,14 @@ https://login.databricks.com/?dbx_source=docs&intent=CE_SIGN_UP
 
 
 Unlock more with LinkedIn verification
+
 https://learn.microsoft.com/en-us/azure/databricks/getting-started/free-edition-limitations
+
+
+Microsoft Certified: Azure Databricks Data Engineer Associate
+
+https://learn.microsoft.com/en-us/credentials/certifications/implementing-data-engineering-solutions-using-azure-databricks/?practice-assessment-type=certification
+
+Practice Assessment is also available on AI Skill Navigator
+50 practice questions.
+
