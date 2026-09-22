@@ -23,3 +23,4 @@ https://learn.microsoft.com/en-us/credentials/certifications/implementing-data-e
 Practice Assessment is also available on AI Skill Navigator
 50 practice questions.
 
+https://www.databricks.com/learn/training/certification
