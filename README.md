@@ -9,3 +9,7 @@ https://login.databricks.com/signup?dbx_source=docs&intent=SIGN_UP&tuuid=bbffd55
 ](https://login.databricks.com/?dbx_source=docs&intent=CE_SIGN_UP)
 
 https://login.databricks.com/?dbx_source=docs&intent=CE_SIGN_UP
+
+
+Unlock more with LinkedIn verification
+https://learn.microsoft.com/en-us/azure/databricks/getting-started/free-edition-limitations
